@@ -1,0 +1,11 @@
+Customer ID,Purchase Date,Amount Spent,Category,Region,Customer Feedback
+101,1/1/2024,150.5,Electronics,North,Positive
+102,1/5/2024,200,Clothing,South,Neutral
+103,1/10/2024,350,Electronics,East,Positive
+104,1/12/2024,100,Home,West,Negative
+105,1/15/2024,400,Clothing,North,Positive
+106,1/18/2024,250,Home,South,Neutral
+107,1/20/2024,300,Electronics,East,Positive
+108,1/22/2024,450,Clothing,West,Negative
+109,1/25/2024,100,Home,North,Positive
+110,1/28/2024,275,Electronics,South,Neutral
